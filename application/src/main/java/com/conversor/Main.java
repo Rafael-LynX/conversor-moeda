@@ -17,7 +17,6 @@ public class Main {
                 .serializeNulls()
                 .create();
 
-        String ApiKey = "860a0c35d9403cdf08b2e7da";
         URI minhaUri = URI.create("https://v6.exchangerate-api.com/v6/860a0c35d9403cdf08b2e7da/latest/USD");
 
         HttpClient client = HttpClient.newHttpClient();
