@@ -1,5 +1,7 @@
 package com.conversor.moeda;
 
+import com.google.gson.annotations.SerializedName;
+
 public class Moedas {
     private String nome;
     private String sigla;
