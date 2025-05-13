@@ -3,8 +3,8 @@
     Conversor de Moedas
     <br />
     <br />
-    <a href="https://docusaurus.io">
-      <img src="conversormoedas.jpg" alt="Conversor de Moedas">
+    <a href="https://github.com/Rafael-LynX/conversor-moeda#">
+      <img src="assets/conversormoedas.jpg" alt="Conversor de Moedas">
     </a>
   </h1>
 </div>
@@ -15,7 +15,7 @@
 
 ## 📖 About The Project
 
-[![Conversor de Moedas][conversor-moedas]](Screenshot_1.png)
+[![Conversor de Moedas][conversor-moedas]](assets/image.png)
 
 O projeto foi feito devido a um desafio do curso da Alura do programa Oracle-ONE, esse projeto visa trabalhar o uso de API
 e json para aprendizado. No meu código acabeu criando 3 classes principais main, moedaAPI e moedas:
@@ -32,8 +32,6 @@ sempre pensando na segurança dele, ainda está muito longe do ideal. Melhorias 
 * `MoedaAPI` poderia validar os dados retornados, evitando erros. 
 
 Essas são somente algumas que eu poderiam ter sido implementadas.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### 🔑 Key-Features
 - `logger`: Utilizei o logger pela a recomendação do sonarQube ele traz alguns beneficios como segurança, desempenho, manutenção e profissionalismo ao código. 
@@ -77,15 +75,11 @@ Para sua instalação precisamos somente clonar o repositorio e criar uma API_KE
     API_KEY=
     ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🛠️ Built With
 
 Ele foi construido apenas com Java.
 
 * [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📄 License
 
