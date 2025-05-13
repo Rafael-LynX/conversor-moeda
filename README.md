@@ -4,7 +4,7 @@
     <br />
     <br />
     <a href="https://github.com/Rafael-LynX/conversor-moeda#">
-      <img src="assets/10017583.png" alt="Conversor de Moedas">
+      <img src="/assets/10017583.png" alt="Conversor de Moedas">
     </a>
   </h1>
 </div>
@@ -15,7 +15,7 @@
 
 ## 📖 About The Project
 
-[![Conversor de Moedas][conversor-screenshot]](/assets/image.png)
+<img src="/assets/image.png" alt="Conversor de Moedas">
 
 O projeto foi feito devido a um desafio do curso da Alura do programa Oracle-ONE, esse projeto visa trabalhar o uso de API
 e json para aprendizado. No meu código acabeu criando 3 classes principais main, moedaAPI e moedas:
