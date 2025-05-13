@@ -98,8 +98,8 @@ public class Main {
             } else {
                 logger.severe("Erro: Resultado da conversão é nulo.");
             }
-            }
-        }  
+        }
+    }  
     
 
     private static Moedas converterTaxaDeCambio(String apiKey, String buscaPrimeiraMoeda, String buscaSegundaMoeda, double valor) {
