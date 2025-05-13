@@ -4,7 +4,7 @@
     <br />
     <br />
     <a href="https://github.com/Rafael-LynX/conversor-moeda#">
-      <img src="/assets/10017583.png" alt="Conversor de Moedas">
+      <img src="/assets/10017583.png" alt="Conversor de Moeda">
     </a>
   </h1>
 </div>
