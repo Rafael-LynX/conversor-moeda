@@ -1,5 +1,7 @@
 package com.conversor.moeda;
 
-public record MoedaAPI(String nome, String sigla, double valor) {
+import java.util.Map;
+
+public record MoedaAPI(String base_code, Map<String, Double> conversion_rates) {
     
 }
